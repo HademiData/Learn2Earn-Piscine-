@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-func quadA(x, y int) {
+func quadB(x, y int) {
 	if x <= 0 || y <= 0 {
 		return
 	}
